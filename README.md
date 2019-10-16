@@ -31,27 +31,27 @@ npm start
 │   └── logo.svg # Logo of this application.
 └── src
     ├── AppNav # Application's navigation bar component files.
-    |   └── index.js
+    │   └── index.js
     ├── Home # Application's question page component, action, reducer, and saga files.
-    |   ├── action.js
-    |   ├── Answer.js
-    |   ├── index.js
-    |   ├── Question.js
-    |   ├── reducer.js
-    |   └── saga.js
+    │   ├── action.js
+    │   ├── Answer.js
+    │   ├── index.js
+    │   ├── Question.js
+    │   ├── reducer.js
+    │   └── saga.js
     ├── LeaderBoard # Application's leaderboard page component files.
-    |   ├── index.js
-    |   └── RankCard.js
+    │   ├── index.js
+    │   └── RankCard.js
     ├── Login # Application's login page component, action, reducer, and saga files.
-    |   ├── action.js
-    |   ├── index.js
-    |   ├── reducer.js
-    |   └── saga.js
+    │   ├── action.js
+    │   ├── index.js
+    │   ├── reducer.js
+    │   └── saga.js
     ├── NewQuestion # Application's new question page component, action, reducer, and saga files.
-    |   ├── action.js
-    |   ├── index.js
-    |   ├── reducer.js
-    |   └── saga.js
+    │   ├── action.js
+    │   ├── index.js
+    │   ├── reducer.js
+    │   └── saga.js
     ├── _DATA.js # Fake database and methods file.
     ├── App.css # Styles for your app. Feel free to customize this as you desire.
     ├── App.js # This is the root of your app.
