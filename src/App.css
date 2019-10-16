@@ -1,0 +1,55 @@
+.navbar {
+  margin: 0 0 20px 0;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.login-card .card-header {
+  text-align: center;
+}
+
+.avatar {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.question-avatar-container,
+.leaderboard-avatar-container,
+.leaderboard-detail-container {
+  border-right: 1px solid #adadad;
+}
+
+.question-question-container,
+.leaderboard-detail-container {
+  text-align: left;
+}
+
+.leaderboard-score-container .card {
+  width: 75%;
+}
+
+.answer-option.selected {
+  background: rgba(0, 255, 0, 0.2);
+}
+
+.btn-group-toggle,
+.back-button {
+  margin-bottom: 10px;
+}
+
+.nav-item {
+  margin-right: 10px;
+  border: 1px solid #fff;
+  border-radius: 3px;
+  padding: 5px 10px;
+}
+
+.nav-item.active {
+  background-color: #00aaff;
+}
+
+.nav-item a {
+  color: #fff;
+}
